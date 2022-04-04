@@ -1,0 +1,25 @@
+body {
+  background: #e0e0e0;
+}
+
+.header {
+  text-align: center;
+  margin: 2rem 0;
+  font-size: 4rem;
+}
+
+.wrapper {
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+.card {
+  margin: 30px;
+  text-align: center;
+  border-radius: 19px;
+  background: #e0e0e0;
+  box-shadow: inset 8px 8px 16px #d3d3d3, inset -8px -8px 16px #ededed;
+  padding: 1em;
+}
