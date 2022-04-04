@@ -192,6 +192,11 @@ export default function App() {
           );
         })}
       </div>
+      <div className="btnwrapper">
+        <button>
+          <a href="https://www-jarmo-fi.nethit.cloud/fi/">Palaa demokauppaan</a>
+        </button>
+      </div>
     </main>
   );
 }
